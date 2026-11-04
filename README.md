@@ -1,4 +1,4 @@
-# Healthcare Analytics – Medical Appointment No-Show Analysis
+# Healthcare Analytics – Medical Appointments No-Show Analysis
 
 ## Project Overview
 
