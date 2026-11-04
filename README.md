@@ -76,7 +76,6 @@ The interactive dashboard presents the main findings from the analysis, includin
 
 [View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/emma.stuart8163/viz/MedicalAppointmentsNo-ShowDashboard/AppointmentNo-ShowDashboard)
 
-![Healthcare Appointment No-Show Dashboard](tableau/dashboard_screenshot.png)
 
 ## Dataset Source
 
